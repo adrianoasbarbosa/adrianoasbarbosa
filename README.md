@@ -59,4 +59,3 @@
 
 <img src="https://raw.githubusercontent.com/adrianoasbarbosa/adrianoasbarbosa/output/snake.svg" alt="Snake animation" />
 
-###
